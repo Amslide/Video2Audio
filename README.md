@@ -1,2 +1,2 @@
 # Video2Audio
-Convert video in .mp2 or .wma audio
+Convert video in .mp3 or .wma audio
